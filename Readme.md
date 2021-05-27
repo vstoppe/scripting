@@ -1,4 +1,4 @@
-# Collection of Python scripts
+# Collection of personal Scripts
 
 This is just a little collection of scripts I wrote. This is either historically or some of my practices.
 
